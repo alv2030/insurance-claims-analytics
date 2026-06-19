@@ -60,7 +60,7 @@ The dataset includes automobile insurance policy information such as:
 
 ## Repository Files
 
-- `Insurance_Claim_py.ipynb` — Main analysis notebook
+- `insurance_claims_analytics.ipynb` — Main analysis notebook
 - `insurance_data.csv` — Insurance claims dataset
 - `README.md` — Project documentation
 - `LICENSE` — MIT License
@@ -69,5 +69,3 @@ The dataset includes automobile insurance policy information such as:
 
 - Add model performance comparison
 - Add claim rate visualizations to README
-- Rename notebook to `insurance_claims_analytics.ipynb`
-- Organize files into `data/` and `notebooks/` folders
